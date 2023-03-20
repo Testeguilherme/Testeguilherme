@@ -9,10 +9,10 @@
 
 <div>
 <a href="https://github.com/Testeguilherme/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Testeguilherme&show_icons=true&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Testeguilherme&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Testeguilherme/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Testeguilherme&theme=radical&hide_progress=false" />
+  <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Testeguilherme&theme=radical&hide_progress=false" />
 </a>
 </div>
 <br>
